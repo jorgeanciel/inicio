@@ -1,0 +1,22 @@
+.nav{
+   display: flex;
+   justify-content: space-evenly; 
+}
+
+.ul-header{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.ul-header li a{
+    text-decoration: none;
+}
+.img-logo{
+    width: 150px;
+    height: 150px;
+}
+.titulos{
+    font-size: 20px;
+}

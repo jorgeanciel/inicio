@@ -1,0 +1,14 @@
+body{
+    overflow-x:hidden ;
+}
+
+.carousel-width{
+   width: 60%;
+   margin-left: 450px;
+ 
+}
+
+.w-100{
+    width: 100% !important;
+    height: 600px !important;
+}
